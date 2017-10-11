@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidDataStorage</string>
+    <string name="app_label">New Products Database</string>
+    <string name="insert_app_label">Add New Product Item</string>
+    <string name="search_app_label">Search Item</string>
+    <string name="item_name_label">Item name:</string>
+    <string name="description_label">Item Description:</string>
+    <string name="price_label">Item Price:</string>
+    <string name="review_label">Item Review:</string>
+
+    <string name="btn_insert_label">Insert New Item</string>
+    <string name="btn_search_label">Search Item</string>
+    <string name="btn_search1_label">Search</string>
+    <string name="btn_add_label">Add</string>
+    <string name="btn_cancel_label">Cancel</string>
+    <string name="save_success_msg">Data Inserted Successfully</string>
+</resources>
